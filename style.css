@@ -1,4 +1,5 @@
-/* Miera – štýl ako v aplikácii (Premium, len tmavý režim). Bez trackerov, analytiky a cookies. */
+/* Miera – štýl ako v aplikácii (Premium, len tmavý režim). Bez trackerov, analytiky a cookies.
+   Písma sú lokálne (fonts.css) – stránka sa nepripája na žiadnu tretiu stranu. */
 :root {
   --bg: #0D1A15;
   --card: #12221C;
